@@ -14,7 +14,7 @@ namespace QUANLYKS
         {
           
            
-          
+          //commeent một xíu thoai
         }
 
         private void btnTtuc_Click(object sender, EventArgs e)

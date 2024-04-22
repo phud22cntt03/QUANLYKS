@@ -12,7 +12,7 @@ namespace QUANLYKS
 
         private void btnTracuu_Click(object sender, EventArgs e)
         {
-           
+           //blalbaaaaaa
            
           
         }

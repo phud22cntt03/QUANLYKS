@@ -14,8 +14,7 @@ namespace QUANLYKS
         {
            
            
-            Form2 frm = new Form2();
-            frm.Show();
+          
         }
 
         private void btnTtuc_Click(object sender, EventArgs e)
